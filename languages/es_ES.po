@@ -1,0 +1,576 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Space Material\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-10 23:20+0000\n"
+"PO-Revision-Date: 2019-04-10 15:10-0400\n"
+"Last-Translator: admin <markarchives77@gmail.com>\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Loco-Version: 2.2.1; wp-5.0.3\n"
+
+#. Description of the theme
+msgid ""
+"\"Space Material\" is a theme based on Bootstrap 5 which makes it quite fast and light, it "
+"uses the Bootstrap framework grid, it is made up of a carousel "
+"slider and two columns for posts as well as a sidebar for widgets."
+msgstr ""
+
+#. %1 %2: date and time.
+#: inc/custom-comment.php:24
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s en %2$s"
+
+#. %d: number of comments.
+#: comments.php:32
+#, php-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "%d comments"
+msgstr[1] "%d comments"
+
+#. number of items in the mini cart.
+#: inc/woocommerce.php:255
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d items"
+msgstr[1] "%d items"
+
+#: inc/custom-comment.php:19
+msgid "&#8226; Post Author &#8226;"
+msgstr "&#8226;  Publicar Autor &#8226;"
+
+#: single.php:35
+msgid "&laquo; Previous Post"
+msgstr "&laquo;  Publicación anterior"
+
+#: inc/theme-options/static-frontpage.php:53
+msgid "1st Featured Page"
+msgstr "Primera página destacada"
+
+#: inc/theme-options/static-frontpage.php:60
+msgid "2nd Featured Page"
+msgstr "2da Pagina Destacada"
+
+#: inc/theme-options/static-frontpage.php:67
+msgid "3rd Featured Page"
+msgstr "3ra Pagina Destacada"
+
+#: template-parts/post-blog.php:105
+msgid "About author"
+msgstr "Sobre el autor"
+
+#: functions.php:91 functions.php:101 functions.php:111 functions.php:121
+#: functions.php:131
+msgid "Add widgets here."
+msgstr "Añade widgets aquí."
+
+#. Author of the theme
+msgid "AnthonCode"
+msgstr "AnthonCode"
+
+#: inc/theme-options/layout.php:91
+msgid "Blog Display"
+msgstr "Visualización de blog"
+
+#: inc/theme-options/blog-home.php:4
+msgid "Blog Homepage"
+msgstr "Blog Homepage"
+
+#: inc/theme-options/theme-colors.php:5
+msgid "Body Background Color"
+msgstr "Color de fondo del cuerpo"
+
+#: inc/theme-options/typography.php:14
+msgid "Body Typography"
+msgstr "Tipografia Body"
+
+#: comments.php:85
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: inc/template-tags.php:53
+msgid "Category:"
+msgstr "Categoría:"
+
+#: inc/theme-options/layout.php:92
+msgid ""
+"Choose between a full post or an excerpt for the blog and archive pages."
+msgstr ""
+"Elija entre una publicación completa o un extracto para el blog y las "
+"páginas de archivo."
+
+#: inc/custom-comment.php:29
+msgid "Comment is awaiting approval"
+msgstr "El comentario está pendiente de aprobación"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: inc/theme-options/layout.php:12
+msgid "Container Max Width (in px)"
+msgstr "Ancho Máximo del Contenedor (en px)"
+
+#: template-parts/post-blog.php:87 template-parts/posts-slider.php:46
+msgid "Continue Reading"
+msgstr "Sigue leyendo"
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/post-blog.php:65
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continuar leyendo<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/theme-options/blog-home.php:49 inc/theme-options/static-frontpage.php:44
+msgid "Cover Button Link"
+msgstr "Botón de cubierta de enlace"
+
+#: inc/theme-options/blog-home.php:42 inc/theme-options/static-frontpage.php:36
+msgid "Cover Button Text"
+msgstr "Cubrir el texto del botón"
+
+#: inc/theme-options/static-frontpage.php:28
+msgid "Cover Lead"
+msgstr "Cubierta de plomo"
+
+#: inc/theme-options/blog-home.php:35
+msgid "Cover Lead Text"
+msgstr "Texto principal de portada"
+
+#: inc/theme-options/blog-home.php:14
+msgid "Cover Section"
+msgstr "Sección de portada"
+
+#: inc/theme-options/blog-home.php:27 inc/theme-options/static-frontpage.php:20
+msgid "Cover Title"
+msgstr "Título de la cubierta"
+
+#: inc/theme-options/layout.php:57
+msgid "Default Sidebar Position"
+msgstr "Posición predeterminada de la barra lateral"
+
+#: inc/custom-header.php:34
+msgid "Desk"
+msgstr "Escritorio"
+
+#: inc/theme-options/blog-home.php:19
+msgid "Display Cover Section"
+msgstr "Sección de cubierta de pantalla"
+
+#: inc/theme-options/blog-home.php:64
+msgid "Display Posts Slider"
+msgstr "Mostrar mensajes deslizantes"
+
+#: inc/custom-comment.php:43
+msgid "Edit"
+msgstr "Editar"
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:86 template-parts/content-page.php:40
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#: comments.php:77
+msgid "Email *"
+msgstr "Email *"
+
+#: comments.php:74
+msgid "Enter your comment...*"
+msgstr "Ingrese su comentario ... *"
+
+#: inc/theme-options/blog-home.php:59
+msgid "Featured Posts Slider"
+msgstr "Slider de publicaciones destacadas"
+
+#: inc/theme-options/theme-colors.php:109
+msgid "Footer Background Color"
+msgstr "Color de fondo del pie de página"
+
+#: functions.php:99
+msgid "Footer Column 1"
+msgstr "Columna de pie de página 1"
+
+#: functions.php:109
+msgid "Footer Column 2"
+msgstr "Columna de pie de página 2"
+
+#: functions.php:119
+msgid "Footer Column 3"
+msgstr "Columna de pie de página 3"
+
+#: functions.php:129
+msgid "Footer Column 4"
+msgstr "Columna de pie de página 4"
+
+#: inc/theme-options/theme-colors.php:139
+msgid "Footer Link Color"
+msgstr "Color de enlace de pie de página"
+
+#: inc/theme-options/theme-colors.php:124
+msgid "Footer Text Color"
+msgstr "Color del texto del pie de página"
+
+#: inc/theme-options/layout.php:98
+msgid "Full Post"
+msgstr "Color del texto del pie de página"
+
+#. Name of the template
+msgid "Full Width Without Container"
+msgstr "Ancho completo sin contenedor"
+
+#: inc/theme-options/add-settings.php:51
+msgid "Get More Features"
+msgstr "Obtener más características"
+
+#: inc/theme-help.php:12
+msgid "Get Started"
+msgstr "Empezar"
+
+#: inc/theme-options/theme-colors.php:13
+msgid "Header Background Color"
+msgstr "Color de fondo del encabezado"
+
+#: inc/theme-options/layout.php:38
+msgid "Header Content Within Container"
+msgstr "Contenido del encabezado dentro del contenedor"
+
+#: inc/theme-options/typography.php:32
+msgid "Heading Typography"
+msgstr "Tipografía de la partida"
+
+#: inc/theme-options/layout.php:71
+msgid "Hide Sidebar On Mobile"
+msgstr "Ocultar barra lateral en el móvil"
+
+#. URI of the theme
+msgid "https://anthoncode.com/en"
+msgstr "https://anthoncode.com/en"
+
+#: inc/theme-help.php:21
+msgid ""
+"If you like our theme and support, please rate us 5 star on WordPress.org."
+msgstr ""
+"Si te gusta nuestro tema y nuestro apoyo, califícanos de 5 estrellas en "
+"WordPress.org."
+
+#: 404.php:36
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Parece que no se encontró nada en esta ubicación. Tal vez intente uno de los "
+"enlaces de abajo o una búsqueda?"
+
+#: template-parts/content-none.php:45
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que no podemos encontrar lo que estás buscando. Tal vez la búsqueda "
+"puede ayudar."
+
+#: inc/theme-options/layout.php:4
+msgid "Layout Settings"
+msgstr "Opciones de diseño"
+
+#. %s: post title
+#: inc/template-tags.php:69
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deja un comentario <span class=\"screen-reader-text\"> en %s</span>"
+
+#: comments.php:84
+msgid "Leave a Reply"
+msgstr "Deja una respuesta"
+
+#: inc/theme-options/layout.php:64
+msgid "Left"
+msgstr "Izquierda"
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/theme-options/theme-colors.php:30
+msgid "Links & Buttons Color"
+msgstr "Color de enlaces y botones"
+
+#: inc/theme-options/theme-colors.php:76
+msgid "Links & Buttons Hover Color"
+msgstr "Enlaces y botones Hover Color"
+
+#: inc/theme-options/add-settings.php:17
+msgid "Logo Height (in px)"
+msgstr "Altura del logotipo (en px)"
+
+#: footer.php:59
+msgid "Material WordPress Theme"
+msgstr "Material WordPress Theme"
+
+#: inc/theme-options/add-settings.php:22
+msgid ""
+"Minimum height 25px & maximum height 200px. Width will be adjusted "
+"automatically."
+msgstr ""
+"Altura mínima 25px y altura máxima 200px. El ancho se ajustará "
+"automáticamente."
+
+#: 404.php:48
+msgid "Most Used Categories"
+msgstr "Las Categorías más usadas"
+
+#: comments.php:76
+msgid "Name *"
+msgstr "Nombre *"
+
+#: comments.php:41 comments.php:58
+msgid "Newer Comments"
+msgstr "Comentarios mas nuevos"
+
+#: archive.php:54 index.php:76 search.php:52
+msgid "Newer Posts"
+msgstr "Publicaciones más nuevas"
+
+#: template-parts/posts-slider.php:59
+msgid "Next"
+msgstr "Siguiente"
+
+#: single.php:36
+msgid "Next Post &raquo;"
+msgstr "Siguiente &raquo;"
+
+#: inc/theme-options/layout.php:65
+msgid "No Sidebar"
+msgstr "No Sidebar"
+
+#. Name of the template
+msgid "No Sidebar (Full Width)"
+msgstr "Sin barra lateral (ancho completo)"
+
+#: inc/theme-options/layout.php:76
+msgid "No."
+msgstr "No."
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "Nada Encontrado"
+
+#: inc/theme-options/blog-home.php:72
+msgid "Number of Posts In Slider"
+msgstr "Número de publicaciones en Slider"
+
+#: comments.php:42 comments.php:59
+msgid "Older Comments"
+msgstr "Comentarios antiguos"
+
+#: archive.php:55 index.php:77 search.php:53
+msgid "Older Posts"
+msgstr "Publicaciones anteriores"
+
+#: 404.php:32
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Esa página no se puede encontrar."
+
+#: template-parts/content-page.php:25 template-parts/post-blog.php:76
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. %s: post author.
+#: inc/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: comments.php:86
+msgid "Post Comment"
+msgstr "Publicar comentario"
+
+#. %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado en %s"
+
+#: inc/theme-options/layout.php:97
+msgid "Post excerpt"
+msgstr "Post extracto"
+
+#: template-parts/posts-slider.php:55
+msgid "Previous"
+msgstr "Anterior"
+
+#: functions.php:33
+msgid "Primary"
+msgstr "Primario"
+
+#: inc/theme-help.php:19
+msgid "Rate Us"
+msgstr "Nos califica"
+
+#: inc/theme-help.php:23
+msgid "Rate us 5 star"
+msgstr "Califícanos 5 estrellas"
+
+#: template-parts/front-page/services.php:26
+#: template-parts/front-page/services.php:41
+#: template-parts/front-page/services.php:56
+msgid "Read More"
+msgstr "Leer más"
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:26
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"¿Listo para publicar su primer post? <a href=\"%1$s\">Comience aquí</a>."
+
+#: inc/custom-comment.php:42
+msgid "Reply"
+msgstr "Respuesta"
+
+#: inc/theme-help.php:15
+msgid "Report a problem"
+msgstr "Reportar un problema"
+
+#: inc/theme-options/layout.php:63
+msgid "Right"
+msgstr "Derecha"
+
+#. Name of the template
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#. %s: search query.
+#: search.php:34
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda para: %s"
+
+#: searchform.php:3
+msgid "Search:"
+msgstr "Buscar:"
+
+#: inc/theme-options/blog-home.php:86
+msgid "Select Posts"
+msgstr "Seleccionar publicaciones"
+
+#: inc/theme-options/static-frontpage.php:75
+msgid "Show Main Content"
+msgstr "Mostrar contenido principal"
+
+#: functions.php:89
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: header.php:28
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: inc/theme-options/layout.php:51
+msgid "Some browsers may be outdated to support this feature."
+msgstr ""
+"Algunos navegadores pueden estar desactualizados para admitir esta función."
+
+#: template-parts/content-none.php:39
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo sentimos, pero nada coincide con sus términos de búsqueda. Por favor, "
+"intente de nuevo con algunas palabras clave diferentes."
+
+#. Name of the theme
+#: inc/template-functions.php:88
+msgid "Space Material"
+msgstr "Space Material"
+
+#: inc/theme-help.php:2
+msgid "Space Material - Help"
+msgstr "Space Material - Ayuda"
+
+#: inc/theme-options/static-frontpage.php:4
+msgid "Static Frontpage"
+msgstr "Portada estática"
+
+#: inc/theme-options/layout.php:47
+msgid "Sticky Header"
+msgstr "Encabezado pegajoso"
+
+#: template-parts/post-blog.php:39
+msgid "Sticky Post"
+msgstr "Mensaje pegajoso"
+
+#: inc/template-tags.php:57
+msgid "Tags:"
+msgstr "Etiquetas:"
+
+#: inc/theme-options/theme-colors.php:6
+msgid "Theme Colors"
+msgstr "Colores del tema"
+
+#: inc/theme-help.php:14
+msgid "Theme Homepage"
+msgstr "Página principal del tema"
+
+#. 1: Theme name.
+#: footer.php:63
+#, php-format
+msgid "Theme Name: %1$s."
+msgstr "Nombre del tema: %1$s."
+
+#: inc/theme-options/add-settings.php:12
+msgid "Theme Options"
+msgstr "Opciones de tema"
+
+#: inc/theme-options/layout.php:58
+msgid ""
+"This can be overwritten on the particular page by using a page template."
+msgstr ""
+"Esto se puede sobrescribir en la página en particular usando una plantilla "
+"de página."
+
+#: inc/theme-options/typography.php:4
+msgid "Typography"
+msgstr "Tipografía"
+
+#: inc/theme-options/add-settings.php:62
+msgid "Upgrade To Pro"
+msgstr "Actualizar a Pro"
+
+#: inc/woocommerce.php:253
+msgid "View your shopping cart"
+msgstr "Ver su carrito de compras"
+
+#: comments.php:78
+msgid "Website"
+msgstr "Sitio web"
+
+#: inc/theme-help.php:6
+msgid "Welcome!"
+msgstr "¡Bienvenido!"
+
+#: inc/theme-options/layout.php:77
+msgid "Yes, hide sidebar on small devices."
+msgstr "Sí, ocultar barra lateral en dispositivos pequeños."
+
+#: template-parts/post-blog.php:132
+msgid "You may also like..."
+msgstr "También te puede interesar..."
+
+#: comments.php:91
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+"Su dirección de correo electrónico no será publicada. Los campos requeridos "
+"están marcados *"

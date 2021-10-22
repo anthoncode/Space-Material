@@ -1,0 +1,559 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Space Material\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-10 23:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.1; wp-5.0.3"
+
+#. Description of the theme
+msgid ""
+"\"Space Material\" is a theme based on Bootstrap 5 which makes it quite fast and light, it "
+"uses the Bootstrap framework grid, it is made up of a carousel "
+"slider and two columns for posts as well as a sidebar for widgets."
+msgstr ""
+
+#. %1 %2: date and time.
+#: inc/custom-comment.php:24
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. %d: number of comments.
+#: comments.php:32
+#, php-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#. number of items in the mini cart.
+#: inc/woocommerce.php:255
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/custom-comment.php:19
+msgid "&#8226; Post Author &#8226;"
+msgstr ""
+
+#: single.php:35
+msgid "&laquo; Previous Post"
+msgstr ""
+
+#: inc/theme-options/static-frontpage.php:53
+msgid "1st Featured Page"
+msgstr ""
+
+#: inc/theme-options/static-frontpage.php:60
+msgid "2nd Featured Page"
+msgstr ""
+
+#: inc/theme-options/static-frontpage.php:67
+msgid "3rd Featured Page"
+msgstr ""
+
+#: template-parts/post-blog.php:105
+msgid "About author"
+msgstr ""
+
+#: functions.php:91 functions.php:101 functions.php:111 functions.php:121
+#: functions.php:131
+msgid "Add widgets here."
+msgstr ""
+
+#. Author of the theme
+msgid "AnthonCode"
+msgstr ""
+
+#: inc/theme-options/layout.php:91
+msgid "Blog Display"
+msgstr ""
+
+#: inc/theme-options/blog-home.php:4
+msgid "Blog Homepage"
+msgstr ""
+
+#: inc/theme-options/theme-colors.php:5
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/theme-options/typography.php:14
+msgid "Body Typography"
+msgstr ""
+
+#: comments.php:85
+msgid "Cancel"
+msgstr ""
+
+#: inc/template-tags.php:53
+msgid "Category:"
+msgstr ""
+
+#: inc/theme-options/layout.php:92
+msgid ""
+"Choose between a full post or an excerpt for the blog and archive pages."
+msgstr ""
+
+#: inc/custom-comment.php:29
+msgid "Comment is awaiting approval"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/theme-options/layout.php:12
+msgid "Container Max Width (in px)"
+msgstr ""
+
+#: template-parts/post-blog.php:87 template-parts/posts-slider.php:46
+msgid "Continue Reading"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/post-blog.php:65
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/theme-options/blog-home.php:49 inc/theme-options/static-frontpage.php:44
+msgid "Cover Button Link"
+msgstr ""
+
+#: inc/theme-options/blog-home.php:42 inc/theme-options/static-frontpage.php:36
+msgid "Cover Button Text"
+msgstr ""
+
+#: inc/theme-options/static-frontpage.php:28
+msgid "Cover Lead"
+msgstr ""
+
+#: inc/theme-options/blog-home.php:35
+msgid "Cover Lead Text"
+msgstr ""
+
+#: inc/theme-options/blog-home.php:14
+msgid "Cover Section"
+msgstr ""
+
+#: inc/theme-options/blog-home.php:27 inc/theme-options/static-frontpage.php:20
+msgid "Cover Title"
+msgstr ""
+
+#: inc/theme-options/layout.php:57
+msgid "Default Sidebar Position"
+msgstr ""
+
+#: inc/custom-header.php:34
+msgid "Desk"
+msgstr ""
+
+#: inc/theme-options/blog-home.php:19
+msgid "Display Cover Section"
+msgstr ""
+
+#: inc/theme-options/blog-home.php:64
+msgid "Display Posts Slider"
+msgstr ""
+
+#: inc/custom-comment.php:43
+msgid "Edit"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:86 template-parts/content-page.php:40
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: comments.php:77
+msgid "Email *"
+msgstr ""
+
+#: comments.php:74
+msgid "Enter your comment...*"
+msgstr ""
+
+#: inc/theme-options/blog-home.php:59
+msgid "Featured Posts Slider"
+msgstr ""
+
+#: inc/theme-options/theme-colors.php:109
+msgid "Footer Background Color"
+msgstr ""
+
+#: functions.php:99
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:109
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:119
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions.php:129
+msgid "Footer Column 4"
+msgstr ""
+
+#: inc/theme-options/theme-colors.php:139
+msgid "Footer Link Color"
+msgstr ""
+
+#: inc/theme-options/theme-colors.php:124
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/theme-options/layout.php:98
+msgid "Full Post"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Without Container"
+msgstr ""
+
+#: inc/theme-options/add-settings.php:51
+msgid "Get More Features"
+msgstr ""
+
+#: inc/theme-help.php:12
+msgid "Get Started"
+msgstr ""
+
+#: inc/theme-options/theme-colors.php:13
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/theme-options/layout.php:38
+msgid "Header Content Within Container"
+msgstr ""
+
+#: inc/theme-options/typography.php:32
+msgid "Heading Typography"
+msgstr ""
+
+#: inc/theme-options/layout.php:71
+msgid "Hide Sidebar On Mobile"
+msgstr ""
+
+#. URI of the theme
+msgid "https://anthoncode.com/en"
+msgstr ""
+
+#: inc/theme-help.php:21
+msgid ""
+"If you like our theme and support, please rate us 5 star on WordPress.org."
+msgstr ""
+
+#: 404.php:36
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:45
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/theme-options/layout.php:4
+msgid "Layout Settings"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:69
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: comments.php:84
+msgid "Leave a Reply"
+msgstr ""
+
+#: inc/theme-options/layout.php:64
+msgid "Left"
+msgstr ""
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/theme-options/theme-colors.php:30
+msgid "Links & Buttons Color"
+msgstr ""
+
+#: inc/theme-options/theme-colors.php:76
+msgid "Links & Buttons Hover Color"
+msgstr ""
+
+#: inc/theme-options/add-settings.php:17
+msgid "Logo Height (in px)"
+msgstr ""
+
+#: footer.php:59
+msgid "Material WordPress Theme"
+msgstr ""
+
+#: inc/theme-options/add-settings.php:22
+msgid ""
+"Minimum height 25px & maximum height 200px. Width will be adjusted "
+"automatically."
+msgstr ""
+
+#: 404.php:48
+msgid "Most Used Categories"
+msgstr ""
+
+#: comments.php:76
+msgid "Name *"
+msgstr ""
+
+#: comments.php:41 comments.php:58
+msgid "Newer Comments"
+msgstr ""
+
+#: archive.php:54 index.php:76 search.php:52
+msgid "Newer Posts"
+msgstr ""
+
+#: template-parts/posts-slider.php:59
+msgid "Next"
+msgstr ""
+
+#: single.php:36
+msgid "Next Post &raquo;"
+msgstr ""
+
+#: inc/theme-options/layout.php:65
+msgid "No Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "No Sidebar (Full Width)"
+msgstr ""
+
+#: inc/theme-options/layout.php:76
+msgid "No."
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/theme-options/blog-home.php:72
+msgid "Number of Posts In Slider"
+msgstr ""
+
+#: comments.php:42 comments.php:59
+msgid "Older Comments"
+msgstr ""
+
+#: archive.php:55 index.php:77 search.php:53
+msgid "Older Posts"
+msgstr ""
+
+#: 404.php:32
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/post-blog.php:76
+msgid "Pages:"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: comments.php:86
+msgid "Post Comment"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/theme-options/layout.php:97
+msgid "Post excerpt"
+msgstr ""
+
+#: template-parts/posts-slider.php:55
+msgid "Previous"
+msgstr ""
+
+#: functions.php:33
+msgid "Primary"
+msgstr ""
+
+#: inc/theme-help.php:19
+msgid "Rate Us"
+msgstr ""
+
+#: inc/theme-help.php:23
+msgid "Rate us 5 star"
+msgstr ""
+
+#: template-parts/front-page/services.php:26
+#: template-parts/front-page/services.php:41
+#: template-parts/front-page/services.php:56
+msgid "Read More"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:26
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/custom-comment.php:42
+msgid "Reply"
+msgstr ""
+
+#: inc/theme-help.php:15
+msgid "Report a problem"
+msgstr ""
+
+#: inc/theme-options/layout.php:63
+msgid "Right"
+msgstr ""
+
+#. Name of the template
+msgid "Right Sidebar"
+msgstr ""
+
+#. %s: search query.
+#: search.php:34
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search:"
+msgstr ""
+
+#: inc/theme-options/blog-home.php:86
+msgid "Select Posts"
+msgstr ""
+
+#: inc/theme-options/static-frontpage.php:75
+msgid "Show Main Content"
+msgstr ""
+
+#: functions.php:89
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:28
+msgid "Skip to content"
+msgstr ""
+
+#: inc/theme-options/layout.php:51
+msgid "Some browsers may be outdated to support this feature."
+msgstr ""
+
+#: template-parts/content-none.php:39
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. Name of the theme
+#: inc/template-functions.php:88
+msgid "Space Material"
+msgstr ""
+
+#: inc/theme-help.php:2
+msgid "Space Material - Help"
+msgstr ""
+
+#: inc/theme-options/static-frontpage.php:4
+msgid "Static Frontpage"
+msgstr ""
+
+#: inc/theme-options/layout.php:47
+msgid "Sticky Header"
+msgstr ""
+
+#: template-parts/post-blog.php:39
+msgid "Sticky Post"
+msgstr ""
+
+#: inc/template-tags.php:57
+msgid "Tags:"
+msgstr ""
+
+#: inc/theme-options/theme-colors.php:6
+msgid "Theme Colors"
+msgstr ""
+
+#: inc/theme-help.php:14
+msgid "Theme Homepage"
+msgstr ""
+
+#. 1: Theme name.
+#: footer.php:63
+#, php-format
+msgid "Theme Name: %1$s."
+msgstr ""
+
+#: inc/theme-options/add-settings.php:12
+msgid "Theme Options"
+msgstr ""
+
+#: inc/theme-options/layout.php:58
+msgid ""
+"This can be overwritten on the particular page by using a page template."
+msgstr ""
+
+#: inc/theme-options/typography.php:4
+msgid "Typography"
+msgstr ""
+
+#: inc/theme-options/add-settings.php:62
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/woocommerce.php:253
+msgid "View your shopping cart"
+msgstr ""
+
+#: comments.php:78
+msgid "Website"
+msgstr ""
+
+#: inc/theme-help.php:6
+msgid "Welcome!"
+msgstr ""
+
+#: inc/theme-options/layout.php:77
+msgid "Yes, hide sidebar on small devices."
+msgstr ""
+
+#: template-parts/post-blog.php:132
+msgid "You may also like..."
+msgstr ""
+
+#: comments.php:91
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
