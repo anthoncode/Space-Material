@@ -4,7 +4,7 @@ Tags: Blog, news, custom-logo, custom-menu, featured-images, translation-ready, 
 
 Requires at least: 4.0
 Tested up to: 4.9.8
-Stable tag: 1.0
+Stable tag: 1.1
 License: GNU General Public License v3 or later
 License URI: https://www.gnu.org/licenses/gpl.html
 
